@@ -1,5 +1,3 @@
-# Amazon Fulfillment Centre (Fixed Array of 8 slots)
-
 belt = [None] * 8
 
 while True:
