@@ -1,8 +1,8 @@
-belt = [None] * 8
+belt = [] * 8
 
 while True:
     print("\n--- Amazon Fulfillment Centre ---")
-    print("1. Add/Update Product")
+    print("1. Add Product")
     print("2. Check Product at Slot")
     print("3. Find Product")
     print("4. Check if Belt is Full")
