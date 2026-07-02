@@ -1,5 +1,5 @@
 SIZE = 5
-queue = [None] * SIZE
+queue = [] * SIZE
 front = -1
 rear = -1
 
